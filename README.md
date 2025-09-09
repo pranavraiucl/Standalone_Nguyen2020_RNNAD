@@ -9,7 +9,7 @@ using deep recurrent neural networks**, under review.
 
 Early identification of people at risk of developing Alzheimer’s disease (AD) would be beneficial for developing treatments.
 This project uses recurrent neural network (RNN) to predict the progression of AD in subjects over the long term.
-Temporal interpolation strategies are used to deal with missing data, thus making efficient use of longitudinal data.
+Temporal interpolation strategies are used to deal with missing data, thus making efficient use of longitudinal data as well.
 
 ----
 
